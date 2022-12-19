@@ -1,1 +1,0 @@
-#Leer el texto traducido
