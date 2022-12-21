@@ -1,1 +1,0 @@
-# Cambia el idioma de traducción.
