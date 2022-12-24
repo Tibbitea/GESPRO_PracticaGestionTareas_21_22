@@ -1,0 +1,1 @@
+#Pedir de nuevo la foto
